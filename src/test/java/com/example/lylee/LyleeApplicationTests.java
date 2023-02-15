@@ -8,6 +8,7 @@ class LyleeApplicationTests {
 
 	@Test
 	void contextLoads() {
+		String abc = "11";
 	}
 
 }
