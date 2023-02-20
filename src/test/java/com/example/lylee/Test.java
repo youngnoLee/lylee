@@ -9,4 +9,8 @@ public class Test {
     public void setTestStr (testStr) {
         this.testStr =  testStr;
     }
+
+    public void setTestStr2 (testStr) {
+        this.testStr =  testStr;
+    }
 }
