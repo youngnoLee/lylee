@@ -10,4 +10,12 @@ public class Test {
         this.testStr =  testStr;
 
     }
+
+    public void setTestStr2 (testStr) {
+        this.testStr =  testStr;
+    }
+
+    public void setTestStr3 (testStr) {
+        this.testStr =  testStr;
+    }
 }
