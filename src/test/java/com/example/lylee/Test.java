@@ -15,7 +15,7 @@ public class Test {
         this.testStr =  testStr;
     }
 
-    public void setTestStr3 (testStr) {
+    public void setTestStr4 (testStr) {
 
         this.testStr =  testStr;
     }
