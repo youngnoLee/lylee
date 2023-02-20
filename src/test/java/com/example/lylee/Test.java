@@ -16,6 +16,7 @@ public class Test {
     }
 
     public void setTestStr3 (testStr) {
+
         this.testStr =  testStr;
     }
 }
