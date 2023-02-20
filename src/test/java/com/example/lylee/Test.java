@@ -8,5 +8,6 @@ public class Test {
 
     public void setTestStr (testStr) {
         this.testStr =  testStr;
+
     }
 }
