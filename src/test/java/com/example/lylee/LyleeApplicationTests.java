@@ -11,4 +11,8 @@ class LyleeApplicationTests {
 		String abc = "11";
 	}
 
+	void contextLoads2() {
+		String abc = "11";
+	}
+
 }
