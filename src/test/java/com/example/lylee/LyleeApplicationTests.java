@@ -6,13 +6,4 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class LyleeApplicationTests {
 
-	@Test
-	void contextLoads() {
-		String abc = "11";
-	}
-
-	void contextLoads2() {
-		String abc = "11";
-	}
-
 }
